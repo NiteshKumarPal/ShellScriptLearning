@@ -1,0 +1,754 @@
+Script started on Friday 28 June 2013 02:50:12 AM IST
+]0;webonise@webonise-desktop: ~/Documents/shllscrpt_assignmentwebonise@webonise-desktop:~/Documents/shllscrpt_assignment$ javac file.java[Kcd java_file/shllscrpt_assignment/[12PDocumentsvi nit_shell.sh[3Pcd Documentsshllscrpt_assignment/[11Pjava_file/javac file.java[Kjavac file.java[Kcat assignment_log.tx
+
+
+
+/home/webonise
+Fri Jun 28 02:45:36 IST 2013
+Fri Jun 28 02:47:25 IST 2013
+Fri Jun 28 02:48:02 IST 2013
+Fri Jun 28 02:48:29 IST 2013
+]0;webonise@webonise-desktop: ~/Documents/shllscrpt_assignmentwebonise@webonise-desktop:~/Documents/shllscrpt_assignment$ cat assignment_log.tx[6Pjavac file.java[Kvacat assignment_log.tx[Kshell[K[K[K[K[Ksh nit_shell1.sh
+1.Hostname of the system you are on
+2.Type and version of the operating system the machine machine is running
+3.Full path to your home directory
+4.Other users are logged into the machine you are using?
+5.Groups you belong to
+6.Files (excluding directories) are located in your home directory and all its subdirectories
+7. Exit
+Enter the choice
+1
+webonise-desktop
+Fri Jun 28 02:50:53 IST 2013
+1.Hostname of the system you are on
+2.Type and version of the operating system the machine machine is running
+3.Full path to your home directory
+4.Other users are logged into the machine you are using?
+5.Groups you belong to
+6.Files (excluding directories) are located in your home directory and all its subdirectories
+7. Exit
+Enter the choice
+2
+operating system:GNU/Linux
+Release:	12.04
+Fri Jun 28 02:50:56 IST 2013
+]0;webonise@webonise-desktop: ~/Documents/shllscrpt_assignmentwebonise@webonise-desktop:~/Documents/shllscrpt_assignment$ cat ^C
+]0;webonise@webonise-desktop: ~/Documents/shllscrpt_assignmentwebonise@webonise-desktop:~/Documents/shllscrpt_assignment$ cat typescript
+]0;webonise@webonise-desktop: ~/Documents/shllscrpt_assignmentwebonise@webonise-desktop:~/Documents/shllscrpt_assignment$ cat typescript
+]0;webonise@webonise-desktop: ~/Documents/shllscrpt_assignmentwebonise@webonise-desktop:~/Documents/shllscrpt_assignment$ cat typescriptsh nit_shell1.sh
+cat: assignment_log.txt: No such file or directory
+1.Hostname of the system you are on
+2.Type and version of the operating system the machine machine is running
+3.Full path to your home directory
+4.Other users are logged into the machine you are using?
+5.Groups you belong to
+6.Files (excluding directories) are located in your home directory and all its subdirectories
+7. Exit
+Enter the choice
+3
+/home/webonise
+nit_shell1.sh: 31: nit_shell1.sh: /home/webonise: Permission denied
+Fri Jun 28 02:55:57 IST 2013
+]0;webonise@webonise-desktop: ~/Documents/shllscrpt_assignmentwebonise@webonise-desktop:~/Documents/shllscrpt_assignment$ cat assignment_log.tx
+
+
+
+/home/webonise
+Fri Jun 28 02:45:36 IST 2013
+Fri Jun 28 02:47:25 IST 2013
+Fri Jun 28 02:48:02 IST 2013
+Fri Jun 28 02:48:29 IST 2013
+webonise-desktop
+Fri Jun 28 02:50:53 IST 2013
+operating system:GNU/Linux
+Release:	12.04
+Fri Jun 28 02:50:56 IST 2013
+Fri Jun 28 02:55:57 IST 2013
+]0;webonise@webonise-desktop: ~/Documents/shllscrpt_assignmentwebonise@webonise-desktop:~/Documents/shllscrpt_assignment$ cat assignment_log.tx[5Psh nit_shell1.sh
+cat: assignment_log.txt: No such file or directory
+1.Hostname of the system you are on
+2.Type and version of the operating system the machine machine is running
+3.Full path to your home directory
+4.Other users are logged into the machine you are using?
+5.Groups you belong to
+6.Files (excluding directories) are located in your home directory and all its subdirectories
+7. Exit
+Enter the choice
+3
+var1
+nit_shell1.sh: 32: nit_shell1.sh: var1: not found
+Fri Jun 28 02:57:13 IST 2013
+]0;webonise@webonise-desktop: ~/Documents/shllscrpt_assignmentwebonise@webonise-desktop:~/Documents/shllscrpt_assignment$ sh nit_shell1.sh
+cat: assignment_log.txt: No such file or directory
+1.Hostname of the system you are on
+2.Type and version of the operating system the machine machine is running
+3.Full path to your home directory
+4.Other users are logged into the machine you are using?
+5.Groups you belong to
+6.Files (excluding directories) are located in your home directory and all its subdirectories
+7. Exit
+Enter the choice
+3
+/home/webonise
+nit_shell1.sh: 32: nit_shell1.sh: /home/webonise: Permission denied
+Fri Jun 28 02:57:33 IST 2013
+]0;webonise@webonise-desktop: ~/Documents/shllscrpt_assignmentwebonise@webonise-desktop:~/Documents/shllscrpt_assignment$ cat assignment_log.tx [K
+
+
+
+/home/webonise
+Fri Jun 28 02:45:36 IST 2013
+Fri Jun 28 02:47:25 IST 2013
+Fri Jun 28 02:48:02 IST 2013
+Fri Jun 28 02:48:29 IST 2013
+webonise-desktop
+Fri Jun 28 02:50:53 IST 2013
+operating system:GNU/Linux
+Release:	12.04
+Fri Jun 28 02:50:56 IST 2013
+Fri Jun 28 02:55:57 IST 2013
+Fri Jun 28 02:57:13 IST 2013
+Fri Jun 28 02:57:33 IST 2013
+]0;webonise@webonise-desktop: ~/Documents/shllscrpt_assignmentwebonise@webonise-desktop:~/Documents/shllscrpt_assignment$ cat assignment_log.tx[5Psh nit_shell1.sh
+cat: assignment_log.txt: No such file or directory
+1.Hostname of the system you are on
+2.Type and version of the operating system the machine machine is running
+3.Full path to your home directory
+4.Other users are logged into the machine you are using?
+5.Groups you belong to
+6.Files (excluding directories) are located in your home directory and all its subdirectories
+7. Exit
+Enter the choice
+3
+/home/webonise
+Fri Jun 28 02:58:27 IST 2013
+]0;webonise@webonise-desktop: ~/Documents/shllscrpt_assignmentwebonise@webonise-desktop:~/Documents/shllscrpt_assignment$ cat assignment_log.tx
+
+
+
+/home/webonise
+Fri Jun 28 02:45:36 IST 2013
+Fri Jun 28 02:47:25 IST 2013
+Fri Jun 28 02:48:02 IST 2013
+Fri Jun 28 02:48:29 IST 2013
+webonise-desktop
+Fri Jun 28 02:50:53 IST 2013
+operating system:GNU/Linux
+Release:	12.04
+Fri Jun 28 02:50:56 IST 2013
+Fri Jun 28 02:55:57 IST 2013
+Fri Jun 28 02:57:13 IST 2013
+Fri Jun 28 02:57:33 IST 2013
+/home/webonise
+Fri Jun 28 02:58:27 IST 2013
+]0;webonise@webonise-desktop: ~/Documents/shllscrpt_assignmentwebonise@webonise-desktop:~/Documents/shllscrpt_assignment$ cat assignment_log.tx[5Psh nit_shell1.sh
+cat: assignment_log.txt: No such file or directory
+1.Hostname of the system you are on
+2.Type and version of the operating system the machine machine is running
+3.Full path to your home directory
+4.Other users are logged into the machine you are using?
+5.Groups you belong to
+6.Files (excluding directories) are located in your home directory and all its subdirectories
+7. Exit
+Enter the choice
+1
+webonise-desktop
+Fri Jun 28 02:58:47 IST 2013
+1.Hostname of the system you are on
+2.Type and version of the operating system the machine machine is running
+3.Full path to your home directory
+4.Other users are logged into the machine you are using?
+5.Groups you belong to
+6.Files (excluding directories) are located in your home directory and all its subdirectories
+7. Exit
+Enter the choice
+^C
+]0;webonise@webonise-desktop: ~/Documents/shllscrpt_assignmentwebonise@webonise-desktop:~/Documents/shllscrpt_assignment$ sh nit_shell1.shcat assignment_log.tx
+
+
+
+/home/webonise
+Fri Jun 28 02:45:36 IST 2013
+Fri Jun 28 02:47:25 IST 2013
+Fri Jun 28 02:48:02 IST 2013
+Fri Jun 28 02:48:29 IST 2013
+webonise-desktop
+Fri Jun 28 02:50:53 IST 2013
+operating system:GNU/Linux
+Release:	12.04
+Fri Jun 28 02:50:56 IST 2013
+Fri Jun 28 02:55:57 IST 2013
+Fri Jun 28 02:57:13 IST 2013
+Fri Jun 28 02:57:33 IST 2013
+/home/webonise
+Fri Jun 28 02:58:27 IST 2013
+webonise-desktop
+Fri Jun 28 02:58:47 IST 2013
+]0;webonise@webonise-desktop: ~/Documents/shllscrpt_assignmentwebonise@webonise-desktop:~/Documents/shllscrpt_assignment$ cat assignment_log.tx[5Psh nit_shell1.sh
+cat: assignment_log.txt: No such file or directory
+1.Hostname of the system you are on
+2.Type and version of the operating system the machine machine is running
+3.Full path to your home directory
+4.Other users are logged into the machine you are using?
+5.Groups you belong to
+6.Files (excluding directories) are located in your home directory and all its subdirectories
+7. Exit
+Enter the choice
+2
+operating system:GNU/Linux
+Release:	12.04
+Fri Jun 28 02:59:01 IST 2013
+]0;webonise@webonise-desktop: ~/Documents/shllscrpt_assignmentwebonise@webonise-desktop:~/Documents/shllscrpt_assignment$ sh nit_shell1.shcat assignment_log.tx
+
+
+
+/home/webonise
+Fri Jun 28 02:45:36 IST 2013
+Fri Jun 28 02:47:25 IST 2013
+Fri Jun 28 02:48:02 IST 2013
+Fri Jun 28 02:48:29 IST 2013
+webonise-desktop
+Fri Jun 28 02:50:53 IST 2013
+operating system:GNU/Linux
+Release:	12.04
+Fri Jun 28 02:50:56 IST 2013
+Fri Jun 28 02:55:57 IST 2013
+Fri Jun 28 02:57:13 IST 2013
+Fri Jun 28 02:57:33 IST 2013
+/home/webonise
+Fri Jun 28 02:58:27 IST 2013
+webonise-desktop
+Fri Jun 28 02:58:47 IST 2013
+operating system:GNU/Linux
+Release:	12.04
+Fri Jun 28 02:59:01 IST 2013
+]0;webonise@webonise-desktop: ~/Documents/shllscrpt_assignmentwebonise@webonise-desktop:~/Documents/shllscrpt_assignment$ cat assignment_log.tx[5Psh nit_shell1.sh
+cat: assignment_log.txt: No such file or directory
+1.Hostname of the system you are on
+2.Type and version of the operating system the machine machine is running
+3.Full path to your home directory
+4.Other users are logged into the machine you are using?
+5.Groups you belong to
+6.Files (excluding directories) are located in your home directory and all its subdirectories
+7. Exit
+Enter the choice
+4
+nit_shell1.sh: 32: nit_shell1.sh: echowebonise tty7         2013-06-27 17:19
+webonise pts/2        2013-06-27 21:11 (:0)
+webonise pts/3        2013-06-27 20:44 (:0)
+webonise pts/4        2013-06-27 22:27 (:0)
+Fri Jun 28 02:59:10 IST 2013: not found
+]0;webonise@webonise-desktop: ~/Documents/shllscrpt_assignmentwebonise@webonise-desktop:~/Documents/shllscrpt_assignment$ sh nit_shell1.shcat assignment_log.tx
+
+
+
+/home/webonise
+Fri Jun 28 02:45:36 IST 2013
+Fri Jun 28 02:47:25 IST 2013
+Fri Jun 28 02:48:02 IST 2013
+Fri Jun 28 02:48:29 IST 2013
+webonise-desktop
+Fri Jun 28 02:50:53 IST 2013
+operating system:GNU/Linux
+Release:	12.04
+Fri Jun 28 02:50:56 IST 2013
+Fri Jun 28 02:55:57 IST 2013
+Fri Jun 28 02:57:13 IST 2013
+Fri Jun 28 02:57:33 IST 2013
+/home/webonise
+Fri Jun 28 02:58:27 IST 2013
+webonise-desktop
+Fri Jun 28 02:58:47 IST 2013
+operating system:GNU/Linux
+Release:	12.04
+Fri Jun 28 02:59:01 IST 2013
+]0;webonise@webonise-desktop: ~/Documents/shllscrpt_assignmentwebonise@webonise-desktop:~/Documents/shllscrpt_assignment$ cat assignment_log.tx[5Psh nit_shell1.sh
+cat: assignment_log.txt: No such file or directory
+1.Hostname of the system you are on
+2.Type and version of the operating system the machine machine is running
+3.Full path to your home directory
+4.Other users are logged into the machine you are using?
+5.Groups you belong to
+6.Files (excluding directories) are located in your home directory and all its subdirectories
+7. Exit
+Enter the choice
+4
+nit_shell1.sh: 32: nit_shell1.sh: echowebonise tty7         2013-06-27 17:19
+webonise pts/2        2013-06-27 21:11 (:0)
+webonise pts/3        2013-06-27 20:44 (:0)
+webonise pts/4        2013-06-27 22:27 (:0): not found
+Fri Jun 28 02:59:47 IST 2013
+]0;webonise@webonise-desktop: ~/Documents/shllscrpt_assignmentwebonise@webonise-desktop:~/Documents/shllscrpt_assignment$ sh nit_shell1.shcat assignment_log.tx
+
+
+
+/home/webonise
+Fri Jun 28 02:45:36 IST 2013
+Fri Jun 28 02:47:25 IST 2013
+Fri Jun 28 02:48:02 IST 2013
+Fri Jun 28 02:48:29 IST 2013
+webonise-desktop
+Fri Jun 28 02:50:53 IST 2013
+operating system:GNU/Linux
+Release:	12.04
+Fri Jun 28 02:50:56 IST 2013
+Fri Jun 28 02:55:57 IST 2013
+Fri Jun 28 02:57:13 IST 2013
+Fri Jun 28 02:57:33 IST 2013
+/home/webonise
+Fri Jun 28 02:58:27 IST 2013
+webonise-desktop
+Fri Jun 28 02:58:47 IST 2013
+operating system:GNU/Linux
+Release:	12.04
+Fri Jun 28 02:59:01 IST 2013
+Fri Jun 28 02:59:47 IST 2013
+]0;webonise@webonise-desktop: ~/Documents/shllscrpt_assignmentwebonise@webonise-desktop:~/Documents/shllscrpt_assignment$ cat assignment_log.tx[5Psh nit_shell1.sh
+cat: assignment_log.txt: No such file or directory
+1.Hostname of the system you are on
+2.Type and version of the operating system the machine machine is running
+3.Full path to your home directory
+4.Other users are logged into the machine you are using?
+5.Groups you belong to
+6.Files (excluding directories) are located in your home directory and all its subdirectories
+7. Exit
+Enter the choice
+65  5
+nit_shell1.sh: 35: nit_shell1.sh: echowebonise: not found
+]0;webonise@webonise-desktop: ~/Documents/shllscrpt_assignmentwebonise@webonise-desktop:~/Documents/shllscrpt_assignment$ sh nit_shell1.shcat assignment_log.tx[5Psh nit_shell1.sh
+cat: assignment_log.txt: No such file or directory
+1.Hostname of the system you are on
+2.Type and version of the operating system the machine machine is running
+3.Full path to your home directory
+4.Other users are logged into the machine you are using?
+5.Groups you belong to
+6.Files (excluding directories) are located in your home directory and all its subdirectories
+7. Exit
+Enter the choice
+4 5
+webonise
+]0;webonise@webonise-desktop: ~/Documents/shllscrpt_assignmentwebonise@webonise-desktop:~/Documents/shllscrpt_assignment$ sh nit_shell1.shcat assignment_log.tx
+
+
+
+/home/webonise
+Fri Jun 28 02:45:36 IST 2013
+Fri Jun 28 02:47:25 IST 2013
+Fri Jun 28 02:48:02 IST 2013
+Fri Jun 28 02:48:29 IST 2013
+webonise-desktop
+Fri Jun 28 02:50:53 IST 2013
+operating system:GNU/Linux
+Release:	12.04
+Fri Jun 28 02:50:56 IST 2013
+Fri Jun 28 02:55:57 IST 2013
+Fri Jun 28 02:57:13 IST 2013
+Fri Jun 28 02:57:33 IST 2013
+/home/webonise
+Fri Jun 28 02:58:27 IST 2013
+webonise-desktop
+Fri Jun 28 02:58:47 IST 2013
+operating system:GNU/Linux
+Release:	12.04
+Fri Jun 28 02:59:01 IST 2013
+Fri Jun 28 02:59:47 IST 2013
+webonise
+]0;webonise@webonise-desktop: ~/Documents/shllscrpt_assignmentwebonise@webonise-desktop:~/Documents/shllscrpt_assignment$ cat assignment_log.tx[5Psh nit_shell1.sh
+cat: assignment_log.txt: No such file or directory
+1.Hostname of the system you are on
+2.Type and version of the operating system the machine machine is running
+3.Full path to your home directory
+4.Other users are logged into the machine you are using?
+5.Groups you belong to
+6.Files (excluding directories) are located in your home directory and all its subdirectories
+7. Exit
+Enter the choice
+^[[A    5
+webonise
+Fri Jun 28 03:01:49 IST 2013
+]0;webonise@webonise-desktop: ~/Documents/shllscrpt_assignmentwebonise@webonise-desktop:~/Documents/shllscrpt_assignment$ sh nit_shell1.sh
+cat: assignment_log.txt: No such file or directory
+1.Hostname of the system you are on
+2.Type and version of the operating system the machine machine is running
+3.Full path to your home directory
+4.Other users are logged into the machine you are using?
+5.Groups you belong to
+6.Files (excluding directories) are located in your home directory and all its subdirectories
+7. Exit
+Enter the choice
+5
+webonise
+Fri Jun 28 03:03:23 IST 2013
+]0;webonise@webonise-desktop: ~/Documents/shllscrpt_assignmentwebonise@webonise-desktop:~/Documents/shllscrpt_assignment$ sh nit_shell1.shcat assignment_log.tx
+
+
+
+/home/webonise
+Fri Jun 28 02:45:36 IST 2013
+Fri Jun 28 02:47:25 IST 2013
+Fri Jun 28 02:48:02 IST 2013
+Fri Jun 28 02:48:29 IST 2013
+webonise-desktop
+Fri Jun 28 02:50:53 IST 2013
+operating system:GNU/Linux
+Release:	12.04
+Fri Jun 28 02:50:56 IST 2013
+Fri Jun 28 02:55:57 IST 2013
+Fri Jun 28 02:57:13 IST 2013
+Fri Jun 28 02:57:33 IST 2013
+/home/webonise
+Fri Jun 28 02:58:27 IST 2013
+webonise-desktop
+Fri Jun 28 02:58:47 IST 2013
+operating system:GNU/Linux
+Release:	12.04
+Fri Jun 28 02:59:01 IST 2013
+Fri Jun 28 02:59:47 IST 2013
+webonise
+webonise
+Fri Jun 28 03:01:49 IST 2013
+webonise
+Fri Jun 28 03:03:23 IST 2013
+]0;webonise@webonise-desktop: ~/Documents/shllscrpt_assignmentwebonise@webonise-desktop:~/Documents/shllscrpt_assignment$ cat assignment_log.tx[5Psh nit_shell1.sh
+cat: assignment_log.txt: No such file or directory
+1.Hostname of the system you are on
+2.Type and version of the operating system the machine machine is running
+3.Full path to your home directory
+4.Other users are logged into the machine you are using?
+5.Groups you belong to
+6.Files (excluding directories) are located in your home directory and all its subdirectories
+7. Exit
+Enter the choice
+65 
+./nit_shell2.sh
+./public_html/readme.txt
+./assignment_log.tx
+./abcdsinger.txt
+./abcdabcdabcdxray.txt
+./test.sh~
+./java_file/HelloWorld.java
+./java_file/Untitled Document~
+./java_file/HelloWorld.class
+./nit_shell1.sh
+./.nit_shell.sh.swp
+./nit_shell2.sh~
+./abcdpoet.txt
+./abcdwrter.txt
+./Untitled Document~
+./assignment_log.tx~
+./assignment_log.txt~
+./typescript
+./nit_shell.sh~
+./tee
+./nit_shell1.sh~
+Fri Jun 28 03:03:37 IST 2013
+]0;webonise@webonise-desktop: ~/Documents/shllscrpt_assignmentwebonise@webonise-desktop:~/Documents/shllscrpt_assignment$ sh nit_shell1.shcat assignment_log.tx
+
+
+
+/home/webonise
+Fri Jun 28 02:45:36 IST 2013
+Fri Jun 28 02:47:25 IST 2013
+Fri Jun 28 02:48:02 IST 2013
+Fri Jun 28 02:48:29 IST 2013
+webonise-desktop
+Fri Jun 28 02:50:53 IST 2013
+operating system:GNU/Linux
+Release:	12.04
+Fri Jun 28 02:50:56 IST 2013
+Fri Jun 28 02:55:57 IST 2013
+Fri Jun 28 02:57:13 IST 2013
+Fri Jun 28 02:57:33 IST 2013
+/home/webonise
+Fri Jun 28 02:58:27 IST 2013
+webonise-desktop
+Fri Jun 28 02:58:47 IST 2013
+operating system:GNU/Linux
+Release:	12.04
+Fri Jun 28 02:59:01 IST 2013
+Fri Jun 28 02:59:47 IST 2013
+webonise
+webonise
+Fri Jun 28 03:01:49 IST 2013
+webonise
+Fri Jun 28 03:03:23 IST 2013
+./nit_shell2.sh
+./public_html/readme.txt
+./assignment_log.tx
+./abcdsinger.txt
+./abcdabcdabcdxray.txt
+./test.sh~
+./java_file/HelloWorld.java
+./java_file/Untitled Document~
+./java_file/HelloWorld.class
+./nit_shell1.sh
+./.nit_shell.sh.swp
+./nit_shell2.sh~
+./abcdpoet.txt
+./abcdwrter.txt
+./Untitled Document~
+./assignment_log.tx~
+./assignment_log.txt~
+./typescript
+./nit_shell.sh~
+./tee
+./nit_shell1.sh~
+Fri Jun 28 03:03:37 IST 2013
+]0;webonise@webonise-desktop: ~/Documents/shllscrpt_assignmentwebonise@webonise-desktop:~/Documents/shllscrpt_assignment$ cat assignment_log.tx[5Psh nit_shell1.shcat assignment_log.tx[Kcat ./public_html readme.txt;[C[C[C[1P readme.txt;[1P readme.txt;[1P readme.txt;[1P readme.txt;[1P readme.txt;[1P readme.txt;[1P readme.txt;[1P readme.txt;
+cat: ./pub: No such file or directory
+cat: readme.txt: No such file or directory
+]0;webonise@webonise-desktop: ~/Documents/shllscrpt_assignmentwebonise@webonise-desktop:~/Documents/shllscrpt_assignment$ cat ./pub readme.txt;assignment_log.tx./pub readme.txt;[Kmkdir pub
+]0;webonise@webonise-desktop: ~/Documents/shllscrpt_assignmentwebonise@webonise-desktop:~/Documents/shllscrpt_assignment$ mkdir pubcat ./pub readme.txt;
+cat: ./pub: Is a directory
+cat: readme.txt: No such file or directory
+]0;webonise@webonise-desktop: ~/Documents/shllscrpt_assignmentwebonise@webonise-desktop:~/Documents/shllscrpt_assignment$ cat ./pub readme.txt;[Kcat ./pub readme.txt;/ readme.txt;
+cat: ./pub/: Is a directory
+cat: readme.txt: No such file or directory
+]0;webonise@webonise-desktop: ~/Documents/shllscrpt_assignmentwebonise@webonise-desktop:~/Documents/shllscrpt_assignment$ cat ./pub/ readme.txt;[1Preadme.txt;
+cat: ./pub/readme.txt: No such file or directory
+]0;webonise@webonise-desktop: ~/Documents/shllscrpt_assignmentwebonise@webonise-desktop:~/Documents/shllscrpt_assignment$ cat ./pub/readme.txt;[C[1P/pub/readme.txt;
+cat: /pub/readme.txt: No such file or directory
+]0;webonise@webonise-desktop: ~/Documents/shllscrpt_assignmentwebonise@webonise-desktop:~/Documents/shllscrpt_assignment$ cat /pub/readme.txt;[1Ppub/readme.txt;
+cat: pub/readme.txt: No such file or directory
+]0;webonise@webonise-desktop: ~/Documents/shllscrpt_assignmentwebonise@webonise-desktop:~/Documents/shllscrpt_assignment$ cat pub/readme.txt;[1P pub/readme.txt;[1P pub/readme.txt;[1P pub/readme.txt;t pub/readme.txt;o pub/readme.txt;u pub/readme.txt;c pub/readme.txt;h pub/readme.txt;
+]0;webonise@webonise-desktop: ~/Documents/shllscrpt_assignmentwebonise@webonise-desktop:~/Documents/shllscrpt_assignment$ touch pub/readme.txt;[2Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C/pub/readme.txt;./pub/readme.txt; readme.txt;[1P readme.txt;[12Pmkdir pubcat ./pub readme.txt;assignment_log.tx[5Psh nit_shell1.shcat assignment_log.tx[5Psh nit_shell1.sh
+cat: assignment_log.txt: No such file or directory
+1.Hostname of the system you are on
+2.Type and version of the operating system the machine machine is running
+3.Full path to your home directory
+4.Other users are logged into the machine you are using?
+5.Groups you belong to
+6.Files (excluding directories) are located in your home directory and all its subdirectories
+7. Exit
+Enter the choice
+1
+webonise-desktop
+Fri Jun 28 03:15:55 IST 2013
+1.Hostname of the system you are on
+2.Type and version of the operating system the machine machine is running
+3.Full path to your home directory
+4.Other users are logged into the machine you are using?
+5.Groups you belong to
+6.Files (excluding directories) are located in your home directory and all its subdirectories
+7. Exit
+Enter the choice
+^[[A^[[B        2
+operating system:GNU/Linux
+Release:	12.04
+Fri Jun 28 03:16:00 IST 2013
+]0;webonise@webonise-desktop: ~/Documents/shllscrpt_assignmentwebonise@webonise-desktop:~/Documents/shllscrpt_assignment$ sh nit_shell1.sh
+cat: assignment_log.txt: No such file or directory
+1.Hostname of the system you are on
+2.Type and version of the operating system the machine machine is running
+3.Full path to your home directory
+4.Other users are logged into the machine you are using?
+5.Groups you belong to
+6.Files (excluding directories) are located in your home directory and all its subdirectories
+7. Exit
+Enter the choice
+3
+/home/webonise
+Fri Jun 28 03:16:03 IST 2013
+]0;webonise@webonise-desktop: ~/Documents/shllscrpt_assignmentwebonise@webonise-desktop:~/Documents/shllscrpt_assignment$ sh nit_shell1.sh
+cat: assignment_log.txt: No such file or directory
+1.Hostname of the system you are on
+2.Type and version of the operating system the machine machine is running
+3.Full path to your home directory
+4.Other users are logged into the machine you are using?
+5.Groups you belong to
+6.Files (excluding directories) are located in your home directory and all its subdirectories
+7. Exit
+Enter the choice
+4
+webonise tty7         2013-06-27 17:19
+webonise pts/2        2013-06-27 21:11 (:0)
+webonise pts/3        2013-06-27 20:44 (:0)
+webonise pts/4        2013-06-27 22:27 (:0)
+Fri Jun 28 03:16:16 IST 2013
+]0;webonise@webonise-desktop: ~/Documents/shllscrpt_assignmentwebonise@webonise-desktop:~/Documents/shllscrpt_assignment$ sh nit_shell1.sh
+cat: assignment_log.txt: No such file or directory
+1.Hostname of the system you are on
+2.Type and version of the operating system the machine machine is running
+3.Full path to your home directory
+4.Other users are logged into the machine you are using?
+5.Groups you belong to
+6.Files (excluding directories) are located in your home directory and all its subdirectories
+7. Exit
+Enter the choice
+5
+webonise
+Fri Jun 28 03:16:21 IST 2013
+]0;webonise@webonise-desktop: ~/Documents/shllscrpt_assignmentwebonise@webonise-desktop:~/Documents/shllscrpt_assignment$ sh nit_shell1.sh
+cat: assignment_log.txt: No such file or directory
+1.Hostname of the system you are on
+2.Type and version of the operating system the machine machine is running
+3.Full path to your home directory
+4.Other users are logged into the machine you are using?
+5.Groups you belong to
+6.Files (excluding directories) are located in your home directory and all its subdirectories
+7. Exit
+Enter the choice
+6
+./nit_shell2.sh
+./public_html/readme.txt
+./assignment_log.tx
+./abcdsinger.txt
+./abcdabcdabcdxray.txt
+./test.sh~
+./java_file/HelloWorld.java
+./java_file/Untitled Document~
+./java_file/HelloWorld.class
+./nit_shell1.sh
+./.nit_shell.sh.swp
+./nit_shell2.sh~
+./abcdpoet.txt
+./abcdwrter.txt
+./pub/readme.txt
+./Untitled Document~
+./assignment_log.tx~
+./assignment_log.txt~
+./typescript
+./nit_shell.sh~
+./tee
+./nit_shell1.sh~
+Fri Jun 28 03:16:28 IST 2013
+]0;webonise@webonise-desktop: ~/Documents/shllscrpt_assignmentwebonise@webonise-desktop:~/Documents/shllscrpt_assignment$ sh nit_shell1.sh
+cat: assignment_log.txt: No such file or directory
+1.Hostname of the system you are on
+2.Type and version of the operating system the machine machine is running
+3.Full path to your home directory
+4.Other users are logged into the machine you are using?
+5.Groups you belong to
+6.Files (excluding directories) are located in your home directory and all its subdirectories
+7. Exit
+Enter the choice
+7
+]0;webonise@webonise-desktop: ~/Documents/shllscrpt_assignmentwebonise@webonise-desktop:~/Documents/shllscrpt_assignment$ sh nit_shell1.sh[1P.sh2.sh
+1.Rename the all files with extension .txt inside your assignment directory and list them on console
+2.Rename the all files whose name starts with letter x inside your assignment directory and list them on console
+3.Create a folder named public_html, Place a 'readme.txt' file in there. Set up file permissions to 777 
+1
+abcdabcdabcdxray.txt  abcdsinger.txt  assignment_log.tx   assignment_log.txt~  nit_shell1.sh   nit_shell2.sh   nit_shell.sh~  public_html  test.sh~    Untitled Document~
+abcdpoet.txt	      abcdwrter.txt   assignment_log.tx~  java_file	       nit_shell1.sh~  nit_shell2.sh~  pub	      tee	   typescript
+abcdabcdabcdabcdxray.txt
+abcdpoet.txt
+abcdsinger.txt
+abcdwrter.txt
+assignment_log.tx
+assignment_log.tx~
+assignment_log.txt~
+java_file
+nit_shell1.sh
+nit_shell1.sh~
+nit_shell2.sh
+nit_shell2.sh~
+nit_shell.sh~
+pub
+public_html
+tee
+test.sh~
+typescript
+Untitled Document~
+Fri Jun 28 03:16:43 IST 2013
+1.Rename the all files with extension .txt inside your assignment directory and list them on console
+2.Rename the all files whose name starts with letter x inside your assignment directory and list them on console
+3.Create a folder named public_html, Place a 'readme.txt' file in there. Set up file permissions to 777 
+^[[A^[[A^[[B^[[B^[[B                    2
+abcdabcdabcdabcdxray.txt  nit_shell2.sh   nit_shell1.sh   abcdsinger.txt      tee	     assignment_log.txt~  Untitled Document~
+assignment_log.tx	  nit_shell2.sh~  nit_shell1.sh~  abcdwrter.txt       test.sh~	     public_html
+typescript		  pub		  abcdpoet.txt	  assignment_log.tx~  nit_shell.sh~  java_file
+Can't rename x* abcdx*: No such file or directory
+abcdabcdabcdabcdxray.txt
+abcdpoet.txt
+abcdsinger.txt
+abcdwrter.txt
+assignment_log.tx
+assignment_log.tx~
+assignment_log.txt~
+java_file
+nit_shell1.sh
+nit_shell1.sh~
+nit_shell2.sh
+nit_shell2.sh~
+nit_shell.sh~
+pub
+public_html
+tee
+test.sh~
+typescript
+Untitled Document~
+Fri Jun 28 03:17:18 IST 2013
+]0;webonise@webonise-desktop: ~/Documents/shllscrpt_assignmentwebonise@webonise-desktop:~/Documents/shllscrpt_assignment$ sh nit_shell2.sh[Kcatsh nit_shell2.sh1.shtouch pub/readme.txt;[2Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C/pub/readme.txt;[1Ppub/readme.txt;/pub/readme.txt;./pub/readme.txt; readme.txt;[1P readme.txt;[12Pmkdir pubcat ./pub readme.txt;assignment_log.tx[5Psh nit_shell1.shcat assignment_log.tx[5Psh nit_shell1.shcat assignment_log.tx
+
+abcdabcdabcdabcdxray.txt
+abcdpoet.txt
+abcdsinger.txt
+abcdwrter.txt
+assignment_log.tx
+assignment_log.tx~
+assignment_log.txt~
+java_file
+nit_shell1.sh
+nit_shell1.sh~
+nit_shell2.sh
+nit_shell2.sh~
+nit_shell.sh~
+pub
+public_html
+tee
+test.sh~
+typescript
+Untitled Document~
+Fri Jun 28 03:17:18 IST 2013
+]0;webonise@webonise-desktop: ~/Documents/shllscrpt_assignmentwebonise@webonise-desktop:~/Documents/shllscrpt_assignment$ cat assignment_log.tx[5Psh nit_shell2.sh
+1.Rename the all files with extension .txt inside your assignment directory and list them on console
+2.Rename the all files whose name starts with letter x inside your assignment directory and list them on console
+3.Create a folder named public_html, Place a 'readme.txt' file in there. Set up file permissions to 777 
+3
+mkdir: cannot create directory `public_html': File exists
+readme.txt
+assignment_log.tx
+abcd
+Fri Jun 28 03:17:53 IST 2013
+]0;webonise@webonise-desktop: ~/Documents/shllscrpt_assignmentwebonise@webonise-desktop:~/Documents/shllscrpt_assignment$ sh nit_shell2.sh
+1.Rename the all files with extension .txt inside your assignment directory and list them on console
+2.Rename the all files whose name starts with letter x inside your assignment directory and list them on console
+3.Create a folder named public_html, Place a 'readme.txt' file in there. Set up file permissions to 777 
+4
+]0;webonise@webonise-desktop: ~/Documents/shllscrpt_assignmentwebonise@webonise-desktop:~/Documents/shllscrpt_assignment$ sh nit_shell2.shcat assignment_log.tx[5Psh nit_shell2.sh1.sh2.sh
+1.Rename the all files with extension .txt inside your assignment directory and list them on console
+2.Rename the all files whose name starts with letter x inside your assignment directory and list them on console
+3.Create a folder named public_html, Place a 'readme.txt' file in there. Set up file permissions to 777 
+4.Exit
+1
+assignment_log.tx   assignment_log.txt~  nit_shell1.sh	 nit_shell2.sh	 nit_shell.sh~	public_html  tee       typescript	   wrter.txt
+assignment_log.tx~  java_file		 nit_shell1.sh~  nit_shell2.sh~  poet.txt	singer.txt   test.sh~  Untitled Document~  xray.txt
+abcdxray.txt
+assignment_log.tx
+assignment_log.tx~
+assignment_log.txt~
+java_file
+nit_shell1.sh
+nit_shell1.sh~
+nit_shell2.sh
+nit_shell2.sh~
+nit_shell.sh~
+poet.txt
+public_html
+singer.txt
+tee
+test.sh~
+typescript
+Untitled Document~
+wrter.txt
+Fri Jun 28 03:20:33 IST 2013
+1.Rename the all files with extension .txt inside your assignment directory and list them on console
+2.Rename the all files whose name starts with letter x inside your assignment directory and list them on console
+3.Create a folder named public_html, Place a 'readme.txt' file in there. Set up file permissions to 777 
+4.Exit
+^C
+]0;webonise@webonise-desktop: ~/Documents/shllscrpt_assignmentwebonise@webonise-desktop:~/Documents/shllscrpt_assignment$ sh nit_shell2.shcat assignment_log.tx
+
+]0;webonise@webonise-desktop: ~/Documents/shllscrpt_assignmentwebonise@webonise-desktop:~/Documents/shllscrpt_assignment$ cat assignment_log.tx
+
+]0;webonise@webonise-desktop: ~/Documents/shllscrpt_assignmentwebonise@webonise-desktop:~/Documents/shllscrpt_assignment$ cat assignment_log.tx
